@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 echo "School"
+=======
+>>>>>>> update_script
 echo "The school is open!"
